@@ -1,0 +1,43 @@
+62 From Dust to Digital
+Amra are included, but in addition words that we find in other manuscripts
+are added when their meanings are confirmed. Each of those words is
+sourced back to at least one example in the manuscripts. The online dictionary
+includes the sentence containing an example of the word, in Ahom script,
+transliteration, with English, Shan and sometimes Assamese translations.63
+All the manuscripts referenced in the dictionary are also in the EAP archive.
+The writing of a descriptive Ahom grammar, based on the language
+examples as found in the manuscripts, whose translation is possible because
+of their identification through this project. A sketch grammar, running to
+around 34 pages has been already published: it is available in a published
+article, and has been archived online as part of the DoBeS website.64
+Finally, there is the development of a Unicode encoding for the Ahom
+script, which has been jointly developed by Martin Hosken and myself.65 The
+final version of the Ahom Unicode proposal was presented to the Unicode
+consortium in October 2012 and approved. A first draft Tai Ahom unicode
+font has been produced, together with a keyboard, and since July 2014 the
+font has been in use by community members on Facebook and in some email
+formats. There are some remaining technical issues to ensure that the font
+renders correctly in word-processing programs like Microsoft Word or Open
+Office.66 Nevertheless the fact that the Tai Ahom language can now be used
+63 We are working towards making the dictionary truly quadrilingual (Tai Ahom, English,
+Shan, Assamese) but this will take some time. Some entries are already quadrilingual, as
+with the entry for kai (chicken).
+64 For the published version, see Stephen Morey, “A Sketch of Tai Ahom”, in Axamiya aru
+Axamar Bhasa [Assamese and the Languages of Assam], ed. by Biswajit Das and Axamar
+Bhasa (Guwahati: AANK-Bank, 2011). At present the best way to access the online
+Ahom materials is to follow a link to projects on the DoBeS website (http://www.mpi.
+nl/DoBeS), then Tangsa, Tai and Singpho in Northeast India, then click on corpus and
+then the node “Ahom”. All of the materials that we have deposited on the website are
+available for download.
+65 Martin Hosken and Stephen Morey, “Revised Proposal to add the Ahom Script in the
+SMP of the UCS”, Working Group Document, 14 September 2012, http://www.unicode.
+org/L2/L2012/12309-ahom-rev.pdf
+66 The Ahom font renders perfectly on Facebook using the Mozilla Firefox browser, once
+it is set as the default font. In other browsers and other platforms it may not work so
+well, as yet. The reason for these rendering issues is the way in which characters are
+coded. For example, the vowel /e/, is written before the consonant that it sounds after. So
+the word ke is written ek which is e k. Unicode requires the /e/ to be encoded after the
+consonant and therefore the fonts have to be designed so that the vowel appears in front
+of the consonant even though it is encoded after. At present the Ahom Unicode font will
+not work properly in Microsoft Word, and for that reason in this paper and in our online
+dictionary and texts we are still using the old legacy font, designed by me in the 1990s.

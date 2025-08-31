@@ -1,0 +1,34 @@
+32 From Dust to Digital
+and cataloguing Ahom manuscripts, and archiving the resulting digital
+materials at the British Library; by archiving digital photographs with our
+partners at the Institute for Tai Studies and Research (Moran, India), Gauhati
+University (Guwahati, India) and Dibrugarh University (Dibrugarh, India);
+and by making images and metadata universally available online through
+the Center for Research in Computational Linguistics, where they will be
+integrated with existing search tools developed under the Ahom Lexicography
+project2 and the Tai and Tibeto-Burman languages of Assam website.3
+Between October 2011 and the middle of 2014, the project photographed
+411 manuscripts owned by around fifty different persons — a total of nearly
+15,000 images. All materials will be available online through the EAP website
+in combination with basic metadata. Around twenty different manuscripts
+have been transcribed, of which around ten have been translated in full or
+in part.4
+The methodology of the project followed these steps:
+• Locating the manuscripts
+• Seeking permission from the owners for them to be copied
+• Cleaning and ordering the manuscripts
+• Photography
+• Data management
+• Metadata preparation
+• Transcription
+• Translation and revision of metadata
+While it may seem obvious that the photographing, archiving and long-term
+preservation of these manuscripts is a good idea, this has not always been
+apparent to the manuscript owners, who are members of the Tai Ahom
+priestly caste. Not all of them have allowed us to take photographs for a
+variety of reasons. For example, there is a belief among some of some of the
+priestly families that the knowledge contained in the manuscripts should
+2 http://sealang.net/ahom
+3 http://sealang.net/assam
+4 As these translations are made ready, they will be published in searchable form on the
+Tai and Tibeto-Burman languages of Assam website (http://sealang.net/assam).

@@ -1,0 +1,42 @@
+Metadata and endangered archives 47
+a length distinction between /a/ and /aa/), but only five or six vowel symbols.
+Thus, in Tai Phake a word written <king> would look like kigq (the equivalent
+in Phake of the Ahom script above), but this can be pronounced as /keng/
+or /kɛng/ as well as /king/, because in stop and nasal final syllables these
+three different vowels are all written identically.39 In addition, there are six
+contrastive tones in Phake. There are thus eighteen possible pronunciations in
+Tai Phake for the word written king, and of those, twelve different meanings
+have recorded for eight of the possible pronunciations.
+We do not even know how many tones were present in spoken Tai Ahom,
+let alone the form of those tones, but the expectation is that, as with the
+modern spoken Tai languages, the tones may have exhibited a combination
+of features: (relative) pitch; contour (change of pitch); phonation (plain,
+breathy and creaky); and duration.40 Furthermore, it is likely that the number
+and form of those tones changed over time, whereas because they were not
+marked, the writing remained the same.
+Native speakers who read Tai manuscripts of this type do so somewhat
+differently from the way we read modern English, or the way we read older
+manuscripts in the European tradition. Consider the English word horse.
+When this is written in isolation, the meaning is clear to all native English
+speakers. This is not so with the Ahom word (also written ) /ma/, which
+ma m;
+can mean “horse” but can also mean “dog”, “to come”, “shoulder” and,
+in compounds, “fruit”. Which of these meanings is correct in a particular
+manuscript depends on the context.
+The following examples demonstrate the process of translation. We will
+discuss this in detail with regard to the manuscript Ming Mvng Lung Phai,
+what we term in English a “spirit calling” text. The main translators for
+this text were Chaichuen Khamdaengyodtai, whose expertise is in Shan
+languages and literature, and myself, with knowledge of comparative Tai
+and Tai grammar. After the text had been transcribed for the first draft
+translation in 2007, Chaichuen and I worked for a week with Nabin Shyam
+Phalung, a speaker of the related Tai Aiton language, thoroughly experienced
+in reading Tai Aiton texts, and for many years the Head of the Tai section at
+the Department of Historical and Antiquarian Studies in Guwahati.41 The
+39 For a discussion of the writing of vowels in the Tai Phake script, and how the script
+under specifies the vowel contrasts, see Morey, The Tai Languages of Assam, pp. 190-94.
+40 Stephen Morey, “Studying Tones in North East India: Tai, Singpho and Tangsa”,
+Language Documentation and Conservation, 8 (2014), 637-71.
+41 Nabin’s skills as both a native speaker of a closely related Tai language and his decades
+of experience working with Tai Ahom manuscripts were not enough to allow him to
+undertake the task of translating this text alone.

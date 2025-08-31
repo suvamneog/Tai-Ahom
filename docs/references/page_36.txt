@@ -1,0 +1,23 @@
+Metadata and endangered archives 61
+Fig. 2.11 Folio 1v of the Bar Amra manuscript
+belonging to Junaram Sangbun Phukan (EAP373), CC BY.
+This page, folio 1v, is divided into three columns. The Assamese meanings
+of the word kai are given on the left hand side (lines 1-6). The fifth line is
+kj
+the word for “chicken” which reads as in Example 13, with the Assamese
+translation written in Ahom script and marked by the case marker -ɔk,
+which marks some direct and indirect objects.
+Example 13)
+kj cM ba ku ku rkq /
+kai cham ba ku ku rak
+chicken prt say chicken-K
+“For a fowl, kai is said”.
+The entire manuscript was transcribed by Zeenat Tabassum,61 and formed the
+basis for a dictionary in the Toolbox format.62 All words that occur in the Bar
+61 Tabassum is a Master’s graduate in linguistics from Gauhati University. This work
+was done between 2005 and 2008 some years before the EAP project commenced. The
+translation was conducted taking into account the earlier translation in Bimala Kanta
+Barua and N. N. Deodhari Phukan. Ahom Lexicons, Based on Original Tai Manuscripts
+(Guwahati: Department of Historical and Antiquarian Studies, 1964).
+62 Toolbox is a dictionary-writing program produced by the Summer Institute of
+Linguistics, http://www-01.sil.org/computing/toolbox

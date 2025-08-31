@@ -1,0 +1,43 @@
+46 From Dust to Digital
+Ahom manuscripts is a challenging task, and in this section we will detail
+the reasons for that, which are related to the structure of the Tai language.
+Tai languages are tonal, and most words are single syllables (monosyllables)
+consisting of up to five elements:35 an optional initial consonant; an optional
+second consonant (/y/, /r/, /w/); a vowel; a tone; and an optional final consonant
+(/ŋ/, /n/ or /m/), written followed by a virama,36 or a second vowel (/i/, /ɯ/ or
+/u/). The traditional Tai scripts used in Northeast India and most of Myanmar
+did not mark all the vowel distinctions, and did not mark tone at all.37 Some
+examples of Ahom words are given in Example 2, with their pronunciation
+and an explanation of each symbol.38
+Example 2 king k i ng virama
+ki[q
+krit k r i t virama
+kRitq
+kai k ai
+kj
+There are several differences between this kind of writing system and
+the alphabetic system used in the Roman script. First of all, the vowels,
+exemplified here by /i/, are written as diacritics to the consonant, in the case
+of /i/ as an oval shaped symbol above the consonant. Secondly, where there
+is a consonant cluster, as in the word krit, the second consonant is written
+as an attachment to the initial consonant. Standing by itself, /r/ is written as
+, but as the second consonant in a cluster it takes a different form.
+r
+All written syllables in Tai Ahom and related languages can be pronounced
+in a number of ways with a range of meanings. Consider again the first word
+in Example 2, which it is suggested was pronounced /king/. We cannot be
+sure that it was not /keng/ or /kɛng/. Several of the spoken languages closely
+related to Tai Ahom (Shan, Khamti, Tai Phake) have nine distinct vowels (and
+35 There are different linguistic theoretical frameworks for the presentation of the elements
+within a syllable. In one theoretical framework, all vowel initial words are actually
+preceded by a glottal stop [ʔ], and this is represented in writing by A in the Ahom script.
+In our analysis, the glottal stop is not a phoneme of Tai Ahom, and vowel initial syllables
+are permitted. For further discussion, see Morey, The Tai Languages of Assam, p. 111.
+36 This is the word given to a sign indicating that a consonant has no following vowel.
+Consonants without it can be interpreted as being followed by /a/. It is called sāt in Tai
+Phake.
+37 Morey, The Tai Languages of Assam, ch. 7.
+38 We use a digraph <ng> rather than the IPA symbol /ŋ/ to mark the velar nasal. This is
+because we are using only Roman letters to transcribe the Ahom script in our work,
+to make it easier for the members of the Ahom community to interpret the linguistic
+materials.
