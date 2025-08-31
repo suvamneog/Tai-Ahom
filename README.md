@@ -1,16 +1,16 @@
-#  Tai-Ahom Manuscripts Digitization & Translation
+# Tai-Ahom Manuscripts Digitization & Translation
 
-##  Overview
+## Overview
 This project is part of our **B.Tech CSE Final Year** work.  
-We aim to **digitize, preserve, and translate** endangered **Tai-Ahom manuscripts** using:
+We aim to digitize, preserve, and translate endangered Tai-Ahom manuscripts using:
 
--  **OCR (Optical Character Recognition)** → To convert scanned manuscripts into digital text.  
--  **Machine Translation (MT)** → To translate from **Ahom → Assamese → English**.  
--  **Web Portal** → To make manuscripts accessible online.  
+- **OCR (Optical Character Recognition)** → Convert scanned manuscripts into digital text.  
+- **Machine Translation (MT)** → Translate from Ahom → Assamese → English.  
+- **Web Portal** → Make manuscripts accessible online.  
 
 ---
 
-##  Repository Structure
+## Repository Structure
 
 tai-ahom/
 ├─ data/
@@ -31,16 +31,16 @@ tai-ahom/
 
 ---
 
-##  Features (Planned)
-- **Data Collection & Cleanup** → Extract, preprocess, and annotate manuscripts.  
-- **OCR** → Fine-tune Tesseract/TrOCR for Ahom script recognition.  
-- **Machine Translation** → Build parallel corpus and fine-tune MT models.  
-- **Web Portal** → Upload manuscripts → OCR → Translate → Save results.  
-- **Evaluation** → Measure OCR (CER) and MT (BLEU/chrF) scores.  
+## Features (Planned)
+- Data Collection & Cleanup → Extract, preprocess, and annotate manuscripts.  
+- OCR → Fine-tune Tesseract/TrOCR for Ahom script recognition.  
+- Machine Translation → Build parallel corpus and fine-tune MT models.  
+- Web Portal → Upload manuscripts → OCR → Translate → Save results.  
+- Evaluation → Measure OCR (CER) and MT (BLEU/chrF) scores.  
 
 ---
 
-##  Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 ```bash
@@ -72,29 +72,30 @@ Team Roles
 	•	MT Team → Build translation dataset and train MT models.
 	•	Web Team → Build portal (React + Node.js).
 	•	QA/Docs Team → Track metrics (CER, BLEU) & prepare reports.
- 
+
 ⸻
 
- Project Tracking
+Project Tracking
 
 We maintain a Google Sheet Tracker with tasks, owners, deadlines, and evidence links.
-⸻
-
- Reports
-	•	Progress Report PDF
+(Add link here when ready)
 
 ⸻
 
- Current Status
-
- Repository structured
- Extracted text, images, and metadata from manuscripts
- Preprocessed manuscript scans
- OCR training pipeline ready (awaiting ground truth transcription)
+Reports
+	•	Progress Report PDF (docs/TaiAhom_Progress_Report.pdf)
 
 ⸻
 
- Next Steps
+Current Status
+	•	Repository structured
+	•	Extracted text, images, and metadata from manuscripts
+	•	Preprocessed manuscript scans
+	•	OCR training pipeline ready (awaiting ground truth transcription)
+
+⸻
+
+Next Steps
 	•	Manual transcription for ground truth (data/gt/).
 	•	Fine-tune Tesseract OCR on Ahom script.
 	•	Build translation corpus (Ahom → Assamese → English).
@@ -103,8 +104,8 @@ We maintain a Google Sheet Tracker with tasks, owners, deadlines, and evidence l
 
 ⸻
 
-📌 License
+License
 
 This project is for academic research & preservation purposes only.
 
-⸻
+---
