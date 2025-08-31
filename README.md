@@ -10,8 +10,10 @@ We aim to digitize, preserve, and translate endangered Tai-Ahom manuscripts usin
 
 ---
 
+
 ## Repository Structure
 
+```text
 tai-ahom/
 ├─ data/
 │  ├─ raw/        # Extracted manuscript scans (PNG)
@@ -28,7 +30,6 @@ tai-ahom/
 ├─ portal/        # Web application (React + Node.js)
 ├─ extract_pdf.py # Script to extract text/images/metadata from PDFs
 └─ preprocess_images.py # Script to preprocess manuscript images
-
 ---
 
 ## Features (Planned)
